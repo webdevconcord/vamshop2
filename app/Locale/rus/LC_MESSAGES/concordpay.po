@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ConcordPay\n"
+"POT-Creation-Date: 2021-09-02 14:23+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__d\n"
+"X-Poedit-Basepath: ../../../Plugin/Payment\n"
+"X-Poedit-SearchPath-0: View/Concordpay\n"
+"X-Poedit-SearchPath-1: Controller/ConcordpayController.php\n"
+
+#: View/Concordpay/settings.ctp:4
+msgid "Merchant ID"
+msgstr "Идентификатор продавца"
+
+#: View/Concordpay/settings.ctp:10
+msgid "Secret key"
+msgstr "Секретный ключ"
+
+#: View/Concordpay/settings.ctp:40
+msgid "Declined order status"
+msgstr "Статус заказа отклоненного платежа"
+
+#: View/Concordpay/settings.ctp:47
+msgid "Refunded order status"
+msgstr "Статус заказа возвращённого платежа"
+
+#: View/Concordpay/settings.ctp:54
+msgid "Payment page language"
+msgstr "Язык страницы оплаты"
+
+#: Controller/ConcordpayController.php:113
+msgid "Module Installed"
+msgstr "Модуль установлен"
+
+#: Controller/ConcordpayController.php:123
+msgid "Module Uninstalled"
+msgstr "Модуль деинсталлирован"
+
+#: Controller/ConcordpayController.php:165
+msgid "Order ID not found!"
+msgstr "Идентификатор заказа не найден!"
+
+#: Controller/ConcordpayController.php:169
+msgid "Unknown operation type!"
+msgstr "Неизвестный тип операции!"
+
+#: Controller/ConcordpayController.php:173
+msgid "Invalid merchant signature!"
+msgstr "Неверная подпись продавца!"
+
+#: Controller/ConcordpayController.php:184
+msgid "Invalid order amount!"
+msgstr "Неверная сумма заказа!"
+
+#: Controller/ConcordpayController.php:323
+msgid "Payment by card on the site"
+msgstr "Оплата картой на сайте"
